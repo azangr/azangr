@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @azangr
+- 👀 I’m interested in too many stuff to mention...
+- 🌱 I’m currently learning Azure things  ...
+- 📫 How to reach me  - Via IM in the platform...
+
+<!---
+azangr/azangr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
